@@ -1,0 +1,51 @@
+body {
+	background-color: rgb(39,40,34);
+	color: #666;
+}
+
+header {
+	color: #666;
+}
+
+header .page-header{
+	color: blue;
+	font-family: 'Lobster', cursive;
+	font-size: 4em;
+}
+
+header #time {
+	font-family: '华文行楷';
+}
+
+
+.timeline-wrapper {
+}
+
+.timeline-time span{
+	background-color: #eee;
+	border: 1px solid #eee;
+	border-radius: 5px;
+	font-size: 0.7em;
+}
+
+.timeline-series {
+	font-size: 1em;
+}
+
+.timeline-event {
+	font-weight: 100;
+}
+
+.timeline-event-content {
+	margin-left: 1.7em;
+	color: white;
+}
+
+.timeline-event-content h3 {
+	font-weight: 700;
+}
+
+.timeline-event-content p {
+	font-size: 16px;
+}
+
